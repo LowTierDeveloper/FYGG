@@ -11,7 +11,7 @@ Open the ZIP file and then go into the folder inside of it.
 ## Step 3:
 Open the main.html file located inside of the folder.
 
-#Running
+# Running
 ---------------
 ## Step 1:
 After opening the main.html file, click "launch FYGG"
