@@ -27,6 +27,10 @@ Open up the ZIP file you just downloaded, and open the ``index.html`` file in yo
 
 Double-clicking the file should open it in your default browser.
 
+## Contact
+
+You can contact me at Q_Q#4117 on Discord for support, questions, or anything of the sorts.
+
 ## To-Do
 
 * Add a login page for further safety.
