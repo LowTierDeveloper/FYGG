@@ -23,3 +23,9 @@ Open up the ZIP file you just downloaded, and open the ``index.html`` file in yo
 
 Double-clicking the file should open it in your default browser.
 
+## To-Do
+
+* Add a login page for further safety.
+* Fix the proxy browser from not working in certain conditions.
+* Find a workaround for most of the non-flash games being blocked.
+
