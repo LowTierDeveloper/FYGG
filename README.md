@@ -10,7 +10,8 @@ With the method I used in this repo, you can open the proxy and is unable to be 
 Although the proxy itself is invisible to GoGuardian, the launcher is not. Beware of opening the launcher when GoGuardian is in use.
 
 ## Local Installation
+### Step 1.
 
-To install FYGG locally, click the green ``Code`` button in the top right, and click ``Download ZIP``. After that, open the ZIP and open the ``index.html`` file.
-![image](https://user-images.githubusercontent.com/117882173/205353542-56bf8f41-015d-4ed8-a388-c747a49621f8.png)
+Click the green ``Code`` button in the top right, and click ``Download ZIP``.
+![github](https://user-images.githubusercontent.com/117882173/205354188-0996bc4f-3cb9-4895-ab01-d05227ca6791.jpg)
 
