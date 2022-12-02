@@ -11,7 +11,7 @@ Although the proxy itself is invisible to GoGuardian, the launcher is not. Bewar
 
 ## Online Usage
 
-Although it may seem obvious, to use the proxy, open up [the website](https://lowtierdeveloper.github.io/FYGG) and click ``Open FYGG``.
+Although it may seem obvious, some people could not figure it out. To use the proxy, open up [the website](https://lowtierdeveloper.github.io/FYGG) and click ``Open FYGG``.
 
 ## Local Installation
 
