@@ -10,8 +10,16 @@ With the method I used in this repo, you can open the proxy and is unable to be 
 Although the proxy itself is invisible to GoGuardian, the launcher is not. Beware of opening the launcher when GoGuardian is in use.
 
 ## Local Installation
+
 ### Step 1.
 
 Click the green ``Code`` button in the top right, and click ``Download ZIP``.
+
 ![github](https://user-images.githubusercontent.com/117882173/205354188-0996bc4f-3cb9-4895-ab01-d05227ca6791.jpg)
+
+### Step 2.
+
+Open up the ZIP file you just downloaded, and open the ``index.html`` file in your browser.
+
+Double-clicking the file should open it in your default browser.
 
