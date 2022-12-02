@@ -1,4 +1,6 @@
 # FYGG (F*** You GoGuardian)
+
+## Info
 Hello! Welcome to the repo for FYGG. Thanks for visiting!
 
 FYGG is a launcher for a proxy that allows you to do things such as browse the web freely and privately, play games, and use apps such as Discord or Twitter.
