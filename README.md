@@ -9,6 +9,10 @@ With the method I used in this repo, you can open the proxy and is unable to be 
 
 Although the proxy itself is invisible to GoGuardian, the launcher is not. Beware of opening the launcher when GoGuardian is in use.
 
+## Online Usage
+
+Although it may seem obvious, to use the proxy, open up [the website](https://lowtierdeveloper.github.io/FYGG) and click ``Open FYGG``.
+
 ## Local Installation
 
 ### Step 1.
