@@ -12,3 +12,5 @@ Although the proxy itself is invisible to GoGuardian, the launcher is not. Bewar
 ## Local Installation
 
 To install FYGG locally, click the green ``Code`` button in the top right, and click ``Download ZIP``. After that, open the ZIP and open the ``index.html`` file.
+![image](https://user-images.githubusercontent.com/117882173/205353542-56bf8f41-015d-4ed8-a388-c747a49621f8.png)
+
