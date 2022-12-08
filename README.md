@@ -38,7 +38,7 @@ Double-clicking the file should open it in your default browser.
 
 ## To-Do
 
-* Add a login page for further safety.
+* ~~Add a login page for further safety.~~ Scrapped, used for a seperate private version of FYGG.
 * Fix the proxy browser from not working in certain conditions.
 * Find a workaround for most of the non-flash games being blocked.
 
