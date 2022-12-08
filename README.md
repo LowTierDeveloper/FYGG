@@ -9,6 +9,11 @@ With the method I used in this repo, you can open the proxy and is unable to be 
 
 Although the proxy itself is invisible to GoGuardian, the launcher is not. Beware of opening the launcher when GoGuardian is in use.
 
+## Support / Contact
+
+To contact me for support, questions, or anything of the sorts, join the Discord server and DM me or ask in the support channel.
+![Discord Banner 3](https://discordapp.com/api/guilds/1050321856021942323/widget.png?style=banner3)
+
 ## Online Usage
 
 Although it may seem obvious, some people could not figure it out. To use the proxy, open up [the website](https://lowtierdeveloper.github.io/FYGG) and click ``Open FYGG``.
@@ -27,9 +32,6 @@ Open up the ZIP file you just downloaded, and open the ``index.html`` file in yo
 
 Double-clicking the file should open it in your default browser.
 
-## Contact
-
-You can contact me at Q_Q#4117 on Discord for support, questions, or anything of the sorts.
 
 ## To-Do
 
