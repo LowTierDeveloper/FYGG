@@ -12,7 +12,7 @@ Although the proxy itself is invisible to GoGuardian, the launcher is not. Bewar
 ## Support / Contact
 
 To contact me for support, questions, or anything of the sorts, join the Discord server and DM me or ask in the support channel.
-![Discord Banner 3](https://discordapp.com/api/guilds/1050321856021942323/widget.png?style=banner3)
+![Discord Banner 3](https://discordapp.com/api/guilds/[1050321856021942323]/widget.png?style=banner3)
 
 ## Online Usage
 
